@@ -1,0 +1,62 @@
+
+.container{
+    height:1100px;
+    margin-left:2rem;
+    margin-top: 3rem;
+    margin-right: 2rem;
+}
+.container-items{
+    background-image: url("sakshi.png");
+   height:100%;
+   background-repeat: no-repeat;
+   box-shadow: #fff;
+   background-color: #0c111b;
+}
+h1{
+  color:red;
+  text-align: center;
+  text-transform: capitalize;
+}
+span{
+    color:#000;
+    margin-left:2rem;
+    font-size: 40px;
+    font-style:italic ;
+
+}
+p{
+    color:crimson;
+    font-size: large;
+    margin-left:2rem;
+}
+
+strong{
+    color:red;
+}
+ol li{
+    color:rgb(13, 0, 255);
+    font-size:large;
+    margin-left:2rem;
+    text-transform: capitalize;
+}
+.content-item{
+    float:right;
+    text-transform: capitalize;
+    margin-right: 1rem;
+}
+.content{
+    float:left;
+    text-transform: capitalize;
+}
+footer{
+    text-align: center;
+    font-size: large;
+    height:100px;
+    width:100%;
+    color:red;
+}
+.contents{
+    height:100px;
+    width:100%;
+    
+}
